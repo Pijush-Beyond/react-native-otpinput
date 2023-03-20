@@ -1,0 +1,40 @@
+{
+  "name": "react-native-otpinput",
+  "version": "1.0.0",
+  "description": "This is a small packge provide OtpTextInput which is meant to serve as otp intput.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pijush-Beyond/react-native-otpinput.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "otp",
+    "react-native-otp",
+    "react-native-otp-input",
+    "react-native-text-input",
+    "react-native-confirmation-code-field",
+    "confirmation-code",
+    "ios",
+    "android",
+    "web",
+    "pin-code",
+    "pin-code-input"
+  ],
+  "author": "Pijush Barman <https://github.com/Pijush-Beyond>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pijush-Beyond/react-native-otpinput/issues"
+  },
+  "homepage": "https://github.com/Pijush-Beyond/react-native-otpinput#readme",
+  "dependencies": {
+    "react-native": ">=0.64.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28"
+  }
+}
